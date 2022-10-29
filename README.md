@@ -7,6 +7,6 @@
 
 # what's in here❓
 
-[x] Build simple Blockchain system written in Python
-[x] Use our Blockchain with preestablished transactions represented as strings
-[x] Test the immutability of our Blockchain
+ Build simple Blockchain system written in Python
+<br> Use our Blockchain with preestablished transactions represented as strings
+<br>Test the immutability of our Blockchain
